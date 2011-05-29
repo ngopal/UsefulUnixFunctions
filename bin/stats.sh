@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-awk -f Statistics.awk
+awk -f ./Awk/Statistics.awk
