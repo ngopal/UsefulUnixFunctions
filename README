@@ -6,6 +6,7 @@ mean.sh - find the mean of a column
 max.sh - find the maximum value of a column
 min.sh - find the minimum value of a column
 stats.sh - in addition to the mean, it also reports the median, standard deviation, average deviation, variance, skew, and kurtosis
+reverse.sh - reverses a column
 
 Functions I'm planning to include here in the future:
 
