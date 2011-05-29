@@ -1,11 +1,12 @@
 These are small, useful scripts I like to keep in my main PATH.
 
 transpose.sh - transposes a text file
+sum.sh - sum up a column
+mean.sh - find the mean of a column
+max.sh - find the maximum value of a column
+min.sh - find the minimum value of a column
+stats.sh - in addition to the mean, it also reports the median, standard deviation, average deviation, variance, skew, and kurtosis
 
 Functions I'm planning to include here in the future:
 
-sum.sh - sum up a column
-mean.sh - find the mean of a column
 median.sh - find the median of a column
-max.sh - find the maximum value of a column
-min.sh - find the minimum value of a column
