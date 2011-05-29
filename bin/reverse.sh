@@ -1,2 +1,2 @@
 #! /usr/bin/env bash
-awk -f ./Awk/Reverse.awk
+awk -f ~/UsefulUnixFunctions/bin/Awk/Reverse.awk
