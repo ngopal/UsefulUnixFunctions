@@ -8,3 +8,5 @@ min.sh - find the minimum value of a column
 median.sh - find the median of a column
 stats.sh - in addition to the mean, it also reports the median, standard deviation, average deviation, variance, skew, and kurtosis
 reverse.sh - reverses a column
+
+Assumes install is in the home directory.
