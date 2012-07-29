@@ -8,6 +8,7 @@ min.sh - find the minimum value of a column
 median.sh - find the median of a column
 stats.sh - in addition to the mean, it also reports the median, standard deviation, average deviation, variance, skew, and kurtosis
 reverse.sh - reverses a column
+histogram.sh - creates a simple, text-based histogram
 
 Install instructions:
 1. Assumes install is in the home directory. Just cd to your home directory and perform a git clone on my repo.
